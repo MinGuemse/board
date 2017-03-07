@@ -1,3 +1,9 @@
+
 sample
 aaa
 bbb
+
+aaaa
+bb
+diff source append
+
